@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 EmailBomber.py
+python3 GmailBomber.py
