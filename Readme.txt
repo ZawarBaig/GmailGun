@@ -10,3 +10,6 @@ This repository is by zawar baig . please fork repository.Only tested on Kali Li
 Reqirements 
 python latest version
 
+For Windows
+You an run this GmailBomber.exe into directly windows no extra installation needed.
+
