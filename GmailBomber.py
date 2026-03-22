@@ -5,6 +5,9 @@ import getpass
 import time
 import os
 import mimetypes
+import colorama
+
+colorama.init()
 
 RED = "\033[1;31m"
 GREEN = "\033[1;32m"
