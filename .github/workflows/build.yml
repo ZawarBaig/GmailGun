@@ -26,7 +26,8 @@ jobs:
 
     - name: Compile to EXE
       run: |
-        pyinstaller --onefile GmailBomber.py
+        # Replace 'icon.ico' with the exact name of your icon file in the repository
+        pyinstaller --onefile --icon=icon.ico GmailBomber.py
 
     - name: Upload EXE as Artifact
       uses: actions/upload-artifact@v4
